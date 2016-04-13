@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+<TableRow>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="One"
+        android:background="#A52A2A"
+        android:layout_weight="1"
+        android:padding="30dp"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Two"
+        android:background="#0000FF"
+        android:layout_margin="10dp"
+        android:padding="30dp"/>
+</TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Three"
+            android:background="#F000"
+            android:layout_weight="1"
+            android:padding="30dp"
+            android:layout_margin="10dp"
+            android:textColor="#F0F8FF"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Four"
+            android:background="#7FFF00"
+            android:layout_weight="1"
+            android:padding="30dp"
+            android:layout_margin="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Five"
+            android:background="#F000"
+            android:layout_weight="1"
+            android:padding="30dp"
+            android:layout_margin="10dp"
+            android:textColor="#F0F8FF"
+            />
+    </TableRow>
+
+
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Six"
+            android:background="#7FFF00"
+            android:padding="30dp"
+            android:layout_margin="10dp"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seven"
+            android:background="#D2691E"
+            android:padding="30dp"
+            android:layout_margin="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eight"
+            android:background="#B8860B"
+            android:padding="30dp"
+            android:layout_margin="10dp"
+            android:layout_weight="7"/>
+    </TableRow>
+
+
+
+
+
+
+
+</TableLayout>
+
+
+
